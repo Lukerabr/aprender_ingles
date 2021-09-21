@@ -41,7 +41,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
         title: Text("Aprenda Ingles"),
         bottom: TabBar(
           indicatorWeight: 4,
-          indicatorColor: Colors.white,
+          //indicatorColor: Colors.white,
           labelStyle: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.bold
